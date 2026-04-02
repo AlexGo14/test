@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Integration App",
+  "description": "A demo application showing how to integrate with GitHub for authentication and API access.",
+  "requestFramePermissions": []
+}
